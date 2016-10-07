@@ -23,6 +23,6 @@ To do:
 - mobile view
 - a million other things
 
-Jacobi wasn't built in a few days. Neither will this, but hopefully this will be quicker.
+Jacobi’s namesake, the [Jacobikirche](http://jacobikirche.de) in Göttingen, wasn’t built in day, and neither will be this Jacobi. But hopefully it won’t take as long, esp. if you all help.
 
 Of course, everything released under CC0 Public Domain Dedication.
